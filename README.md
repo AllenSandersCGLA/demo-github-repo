@@ -15,4 +15,4 @@ Steps:
 
 *Update from VS Code*
 
-Update from the branch my-branch
+Update from the branch my-branch (Is this any better?)
